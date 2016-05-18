@@ -59,6 +59,7 @@ FAQ
 + [flor-master/kottans-homework](https://github.com/flor-master/kottans-homework.git)
 + [makovskaia/kottans-hw](https://github.com/makovskaia/kottans-hw.git)
 + [SashaPonomarov/kottans-js-2016](https://github.com/SashaPonomarov/kottans-js-2016.git)
++ [aerobium/kottans-JS-2016](https://github.com/aerobium/kottans-JS-2016)
 
 ## Kharkiv:
 + [termosa/kottans-js-2016](https://github.com/termosa/kottans-js-2016)  
