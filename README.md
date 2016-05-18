@@ -61,6 +61,7 @@ FAQ
 + [SashaPonomarov/kottans-js-2016](https://github.com/SashaPonomarov/kottans-js-2016.git)
 + [aerobium/kottans-JS-2016](https://github.com/aerobium/kottans-JS-2016)
 + [lempiy/kottans-js-2016](https://github.com/lempiy/kottans-js-2016.git)
++ [Kilmyashkin/kottans](https://github.com/Kilmyashkin/kottans)
 
 ## Kharkiv:
 + [termosa/kottans-js-2016](https://github.com/termosa/kottans-js-2016)  
