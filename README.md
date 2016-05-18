@@ -62,6 +62,7 @@ FAQ
 + [aerobium/kottans-JS-2016](https://github.com/aerobium/kottans-JS-2016)
 + [lempiy/kottans-js-2016](https://github.com/lempiy/kottans-js-2016.git)
 + [Kilmyashkin/kottans](https://github.com/Kilmyashkin/kottans)
++ [bikbaev/kottans-js-2016](https://github.com/bikbaev/kottans-js-2016.git)
 
 ## Kharkiv:
 + [termosa/kottans-js-2016](https://github.com/termosa/kottans-js-2016)  
@@ -84,6 +85,8 @@ FAQ
 + [Zaleskyy/kottans-js-2016](https://github.com/zalesky/JS2016-3-.git)
 + [scorpioRED/kottans-js-2016](https://github.com/scorpioRED/kottans-js-2016.git)
 + [irkafox/kottans-js-2016](https://github.com/irkafox/kottans-js-2016)
++ [yarikgenza/kottans-js-hw](https://github.com/yarikgenza/kottans-js-hw)
++ [romtso/kottans-js-2016](https://github.com/romtso/kottans-js-2016.git)
 8. Я выполнил все задания и прошел курс. Что делать?
 ---------------------------
 Спусти лифт вниз.Учи и помогай другим
