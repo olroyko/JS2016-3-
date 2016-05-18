@@ -52,7 +52,7 @@ FAQ
 + [kyriiherman/kottans-js-2016](https://github.com/kyriiherman/kottans-js-2016.git)
 + [ienovytskyi/kottans-js-2016](https://github.com/ienovytskyi/kottans-js-2016.git)
 + [quodnon/catwork-js-2016](https://github.com/quodnon/catwork-js-2016.git)
-+ [cwayfinder/kottans-js-2016](https://github.com/cwayfinder/kottans-js-2016) 
++ [cwayfinder/kottans-js-2016](https://github.com/cwayfinder/kottans-js-2016)
 + [alexey-kuliw/kottans-homework](https://github.com/alexey-kuliw/kottans-homework.git)
 + [vrd/kottans-js-2016](https://github.com/vrd/kottans-js-2016.git)
 + [MarinaZadoyanchuk/kottans-js-2016](https://github.com/MarinaZadoyanchuk/kottans-js-2016.git)
@@ -61,6 +61,7 @@ FAQ
 + [SashaPonomarov/kottans-js-2016](https://github.com/SashaPonomarov/kottans-js-2016.git)
 + [aerobium/kottans-JS-2016](https://github.com/aerobium/kottans-JS-2016)
 + [lempiy/kottans-js-2016](https://github.com/lempiy/kottans-js-2016.git)
++ [Kilmyashkin/kottans](https://github.com/Kilmyashkin/kottans)
 
 ## Kharkiv:
 + [termosa/kottans-js-2016](https://github.com/termosa/kottans-js-2016)  
