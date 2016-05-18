@@ -83,6 +83,7 @@ FAQ
 + [Leomund/kottans-js-2016](https://github.com/Leomund/kottans-js-2016.git)
 + [Zaleskyy/kottans-js-2016](https://github.com/zalesky/JS2016-3-.git)
 + [scorpioRED/kottans-js-2016](https://github.com/scorpioRED/kottans-js-2016.git)
++ [irkafox/kottans-js-2016](https://github.com/irkafox/kottans-js-2016)
 8. Я выполнил все задания и прошел курс. Что делать?
 ---------------------------
 Спусти лифт вниз.Учи и помогай другим
