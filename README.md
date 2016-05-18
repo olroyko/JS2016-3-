@@ -89,7 +89,7 @@ FAQ
 + [Zavorotyuk/kottans-js-2016](https://github.com/Zavorotyuk/kottans-js-2016.git)
 + [igordubovoy/kottans-js-2016](https://github.com/igordubovoy/JS2016-3-.git)
 + [Leomund/kottans-js-2016](https://github.com/Leomund/kottans-js-2016.git)
-+ [Zaleskyy/kottans-js-2016](https://github.com/zalesky/JS2016-3-.git)
++ [Zaleskyy/kottans-js-2016](https://github.com/zalesky/kottans-js-2016.git)
 + [scorpioRED/kottans-js-2016](https://github.com/scorpioRED/kottans-js-2016.git)
 + [irkafox/kottans-js-2016](https://github.com/irkafox/kottans-js-2016)
 + [yarikgenza/kottans-js-hw](https://github.com/yarikgenza/kottans-js-hw)
