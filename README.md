@@ -66,6 +66,7 @@ FAQ
 + [YanaPlotnyk/kottans-js-2016](https://github.com/YanaPlotnyk/kottans-js-2016.git)
 + [uapasha/js-kottans-hw](https://github.com/uapasha/js-kottans-hw)
 + [ElegantElephant44/kottans-js-2016](https://github.com/ElegantElephant44/kottans-js-2016)
++ [Yevs/kottans-homework](https://github.com/Yevs/kottans-homework)
 
 ## Kharkiv:
 + [termosa/kottans-js-2016](https://github.com/termosa/kottans-js-2016)  
