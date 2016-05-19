@@ -99,6 +99,7 @@ FAQ
 + [yarikgenza/kottans-js-hw](https://github.com/yarikgenza/kottans-js-hw)
 + [romtso/kottans-js-2016](https://github.com/romtso/kottans-js-2016.git)
 + [nazartsyhanyuk/kottans-js-2016](https://github.com/nazartsyhanyuk/kottans-js-2016)
++ [DeniChan90/Kottans-HW](https://github.com/DeniChan90/Kottans-HW)
 8. Я выполнил все задания и прошел курс. Что делать?
 ---------------------------
 Спусти лифт вниз.Учи и помогай другим
