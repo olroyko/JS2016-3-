@@ -88,6 +88,7 @@ FAQ
 + [Kost9in/kottans-js-2016](https://github.com/Kost9in/kottans-js-2016)
 + [AndriyErmak/kottans-js-2016](https://github.com/AndriyErmak/kottans-js-2016)
 + [Piotrovskyi/kottans-js-2016](https://github.com/Piotrovskyi/kottans-js-2016)
++ [ElenaP/kottans-js-2016](https://github.com/ElenaP/kottans-js-2016)
 
 ## Львов:
 + [lolochka/kottans-js-2016](https://github.com/lolochka/kottans-js-2016)
