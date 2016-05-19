@@ -1,4 +1,4 @@
-New course started!!!
+New course has started!!!
 
 FAQ
 =======
@@ -12,40 +12,39 @@ FAQ
 **Киев**
 Офис Cogniance
 Вт, Чт 19:45
-Сб-воркшоп с 11 до 18. **Если не указано иное*
+Сб &mdash; воркшоп с 11 до 18. **Если не указано иначе*
 
-**Львів**
-Офіс Innocode
+**Львов**
+Офис Innocode
 Вт, Чт 19:45
-Сб-воркшоп с 11 до 18. **Если не указано иное*
+Сб &mdash; воркшоп с 11 до 18. **Если не указано иначе*
 
 2. Ноут на лекции брать?
 ------------------
-Желательно
+Желательно.
 
 3. Как сдавать домашние работы?
 -------------------
 Создать репозиторий для хранения работ всего курса и хранить домашние задания в папках по неделям курса
-**week01** **week02** и т.д
+**week01** **week02** и т.д.
 
-4.Я списал домашнее задание и вы это увидели. Какие санкции?
+4. Я списал домашнее задание и вы это увидели. Какие санкции?
 --------------
-~~Exterminatus~~ Бан
+~~Exterminatus~~ Бан.
 
-5.Я пропустил 1+n занятий. Что делать?
+5. Я пропустил 1+n занятий. Что делать?
 -------------------------------------
 Сочувствуем, но придется вам попробовать в следующий раз.
 
 6. Я подал задание не в срок. Что делать?
 ------------------
-Пропущено больше 2-х дедлайнов и можете не напрягаться и в дальнейшем
-
+Пропущено больше 2-х дедлайнов и можете не напрягаться и в дальнейшем.
 
 7. Куда добавить ссылку на мой репозиторий с домашками?
 --------------
-Сюда с помощью PR(pull request):
+Сюда с помощью PR (pull request):
 
-## Kyiv:
+## Киев:
 + [evashchuk/kottans-js-2016-hw](https://github.com/evashchuk/kottans-js-2016-hw.git)
 + [mcmxc/kottns-hw](https://github.com/mcmxc/kottns-hw.git)
 + [imbaniac/Kottans-JS-2016](https://github.com/imbaniac/Kottans-JS-2016)
@@ -70,7 +69,7 @@ FAQ
 + [m1n0s/kottans-js-2016](https://github.com/m1n0s/kottans-js-2016)
 + [stasgavrylov/kottans](https://github.com/stasgavrylov/kottans)
 
-## Kharkiv:
+## Харьков:
 + [termosa/kottans-js-2016](https://github.com/termosa/kottans-js-2016)  
 + [PShatalov/kottans-js-2016](https://github.com/PShatalov/kottans-js-2016.git)
 + [Al4evec/Kottans-JS-2016](https://github.com/Al4evec/Kottans-JS-2016.git)
@@ -88,7 +87,7 @@ FAQ
 + [AndriyErmak/kottans-js-2016](https://github.com/AndriyErmak/kottans-js-2016)
 + [Piotrovskyi/kottans-js-2016](https://github.com/Piotrovskyi/kottans-js-2016)
 
-## Lviv:
+## Львов:
 + [lolochka/kottans-js-2016](https://github.com/lolochka/kottans-js-2016)
 + [Zavorotyuk/kottans-js-2016](https://github.com/Zavorotyuk/kottans-js-2016.git)
 + [igordubovoy/kottans-js-2016](https://github.com/igordubovoy/JS2016-3-.git)
@@ -101,4 +100,4 @@ FAQ
 + [nazartsyhanyuk/kottans-js-2016](https://github.com/nazartsyhanyuk/kottans-js-2016)
 8. Я выполнил все задания и прошел курс. Что делать?
 ---------------------------
-Спусти лифт вниз.Учи и помогай другим
+Спусти лифт вниз. Учи и помогай другим
