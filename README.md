@@ -68,6 +68,7 @@ FAQ
 + [ElegantElephant44/kottans-js-2016](https://github.com/ElegantElephant44/kottans-js-2016)
 + [Yevs/kottans-homework](https://github.com/Yevs/kottans-homework)
 + [m1n0s/kottans-js-2016](https://github.com/m1n0s/kottans-js-2016)
++ [stasgavrylov/kottans](https://github.com/stasgavrylov/kottans)
 
 ## Kharkiv:
 + [termosa/kottans-js-2016](https://github.com/termosa/kottans-js-2016)  
