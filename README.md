@@ -90,6 +90,7 @@ FAQ
 + [Piotrovskyi/kottans-js-2016](https://github.com/Piotrovskyi/kottans-js-2016)
 + [ElenaP/kottans-js-2016](https://github.com/ElenaP/kottans-js-2016)
 + [sherlaimov/kottans-js-2016](https://github.com/sherlaimov/kottans-js-2016)
++ [chrom/cottans-js-2016](https://github.com/chrom/cottans-js-2016)
 
 ## Львов:
 + [lolochka/kottans-js-2016](https://github.com/lolochka/kottans-js-2016)
