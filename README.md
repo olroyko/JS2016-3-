@@ -72,6 +72,7 @@ FAQ
 + [abatovua/kottansHW](https://github.com/abatovua/kottansHW)
 + [voroshilov-dima/kottans-js-2016](https://github.com/voroshilov-dima/kottans-js-2016.git)
 + [dimavel/kottans-homework](https://github.com/dimavel/kottans-homework)
++ [artemdrei/Kottans-JS2016-3](https://github.com/artemdrei/Kottans-JS2016-3)
 
 ## Харьков:
 + [termosa/kottans-js-2016](https://github.com/termosa/kottans-js-2016)  
